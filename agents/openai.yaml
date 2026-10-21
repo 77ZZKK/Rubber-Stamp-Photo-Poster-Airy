@@ -1,0 +1,7 @@
+interface:
+  display_name: "Rubber Stamp Photo Poster Airy"
+  short_description: "Create images with the Rubber Stamp Photo Poster Airy template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-rubber-stamp-photo-poster-airy to create an image with this template."
+policy:
+  allow_implicit_invocation: true
